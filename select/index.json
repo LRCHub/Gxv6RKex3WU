@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゴウスト",
+  "base_artist": "空白ごっこ",
+  "createdAt": "2025-12-09T07:38:46.198775Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴウスト",
+      "artist": "空白ごっこ",
+      "has_synced": false,
+      "path": "select/pl_01_ゴウスト_空白ごっこ.txt"
+    }
+  ]
+}
